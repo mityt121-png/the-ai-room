@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-ai-room-ochre.vercel.app/sitemap.xml

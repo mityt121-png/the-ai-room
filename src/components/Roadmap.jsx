@@ -13,11 +13,12 @@ export default function Roadmap() {
           className="text-center"
         >
           <h2 className="text-4xl font-bold">
-            Learning <span className="text-cyan-300">Roadmap</span>
+            From Confused to Confident{" "}
+            <span className="text-cyan-300">Roadmap</span>
           </h2>
           <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
-            A clear step-by-step path from basic coding to job-level AI/ML
-            skills.
+            A clear step-by-step path from "what is Python?" to "look, I built
+            an AI project."
           </p>
         </motion.div>
 

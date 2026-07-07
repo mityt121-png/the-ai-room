@@ -19,14 +19,15 @@ export default function About() {
           <p className="text-slate-300 mt-5 leading-8">
             Hi, I am Mitesh Rengar, founder of The AI Room. I have 3 years of
             experience in AI/ML and teaching. I have worked in Machine Learning,
-            Data Science and AI-related projects, and I also teach students in a
-            simple, practical and beginner-friendly way.
+            Data Science and AI-related projects, and I teach students in a
+            simple, practical and beginner-friendly way, with examples that do
+            not sound like a textbook taking revenge.
           </p>
 
           <p className="text-slate-300 mt-4 leading-8">
-            My goal is to help students move from basic coding to job-level
-            skills through real examples, assignments, projects and career
-            guidance.
+            My goal is to help school and college students move from basic
+            coding to useful AI skills through real examples, assignments,
+            projects and career guidance.
           </p>
 
           <div className="grid sm:grid-cols-2 gap-4 mt-8">
@@ -64,7 +65,7 @@ export default function About() {
 
             <div className="flex justify-between border-b border-cyan-400/20 pb-3">
               <span className="text-slate-300">Location</span>
-              <b>Online</b>
+              <b>Join from anywhere</b>
             </div>
 
             <div className="flex justify-between border-b border-cyan-400/20 pb-3">
@@ -84,7 +85,7 @@ export default function About() {
 
             <div className="flex justify-between">
               <span className="text-slate-300">Demo</span>
-              <b>Free demo available</b>
+              <b>Free demo, no tension</b>
             </div>
           </div>
         </motion.div>

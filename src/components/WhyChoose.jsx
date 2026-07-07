@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 export default function WhyChoose() {
   const whyItems = [
     "Beginner-friendly teaching style",
-    "Practical project-based learning",
+    "Practical projects, not only notebook theory",
     "Small batch personal attention",
-    "Online + Offline class support",
+    "Online class support",
     "Free demo class available",
     "Career, resume and interview guidance",
   ];
@@ -22,12 +22,11 @@ export default function WhyChoose() {
           className="text-center"
         >
           <h2 className="text-4xl font-bold">
-            Why Choose <span className="text-cyan-300">The AI Room?</span>
+            Why Students Like <span className="text-cyan-300">The AI Room?</span>
           </h2>
           <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
-            We focus on practical learning, simple explanation and career-ready
-            skills so students can confidently start their journey in AI and
-            Data Science.
+            Simple explanations, practical coding and enough patience for every
+            "sir, one more time please" moment.
           </p>
         </motion.div>
 

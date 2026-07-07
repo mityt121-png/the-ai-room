@@ -49,14 +49,15 @@ Message: ${formData.message}`;
                     viewport={{ once: true }}
                     className="text-center mb-10"
                 >
-                    <p className="text-cyan-300 font-semibold tracking-wide">CONTACT</p>
+                    <p className="text-cyan-300 font-semibold tracking-wide">FREE DEMO</p>
 
                     <h2 className="text-4xl md:text-5xl font-bold mt-3">
-                        Book Your Free Demo
+                        Book a Demo Before Your Brain Says "Later"
                     </h2>
 
                     <p className="text-slate-300 mt-4 max-w-2xl mx-auto leading-7">
                         Fill the form and your enquiry will open directly on WhatsApp.
+                        Fast, simple and assignment-deadline friendly.
                     </p>
                 </motion.div>
 
@@ -126,7 +127,7 @@ Message: ${formData.message}`;
                             value={formData.message}
                             onChange={handleChange}
                             className="block w-full bg-slate-950 border border-slate-700 text-white px-4 py-4 rounded-xl placeholder:text-slate-500 outline-none focus:border-cyan-300 min-h-32 resize-none"
-                            placeholder="Message"
+                            placeholder="Message, doubt or current coding fear"
                         ></textarea>
 
                         <motion.button

@@ -12,11 +12,12 @@ export default function Courses() {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl font-bold">
-            Courses for{" "}
-            <span className="text-cyan-300">Future Tech Careers</span>
+            Courses That Make{" "}
+            <span className="text-cyan-300">Tech Less Scary</span>
           </h2>
           <p className="text-slate-300 mt-3">
-            Students can choose course according to their level and career goal.
+            Pick your level: school beginner, college learner, or "I opened
+            Python once and panicked."
           </p>
         </motion.div>
 
@@ -43,7 +44,7 @@ export default function Courses() {
                   href="#contact"
                   className="block text-center border border-cyan-400/50 text-cyan-300 rounded-xl py-3 mt-6 hover:bg-cyan-400/10 transition"
                 >
-                  Ask Details
+                  Ask Sir
                 </a>
               </motion.div>
             );

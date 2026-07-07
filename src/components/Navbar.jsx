@@ -34,7 +34,7 @@ export default function Navbar() {
           href="#contact"
           className="hidden md:block bg-cyan-400 text-slate-950 px-5 py-2 rounded-xl font-semibold hover:bg-cyan-300 transition"
         >
-          Book Demo
+          Free Demo
         </a>
 
         {/* Mobile Menu Button */}
@@ -66,7 +66,7 @@ export default function Navbar() {
               onClick={() => setIsOpen(false)}
               className="bg-cyan-400 text-slate-950 px-5 py-3 rounded-xl font-semibold text-center hover:bg-cyan-300 transition"
             >
-              Book Demo
+              Free Demo
             </a>
           </nav>
         </div>

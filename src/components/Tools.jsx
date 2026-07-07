@@ -13,11 +13,12 @@ export default function Tools() {
           className="text-center"
         >
           <h2 className="text-4xl font-bold">
-            Tools & <span className="text-cyan-300">Technologies</span>
+            Tools You Will Actually{" "}
+            <span className="text-cyan-300">Use</span>
           </h2>
           <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
-            Students will learn industry-relevant tools used in AI, ML, Data
-            Analysis and Data Science.
+            Industry tools for AI, ML and data work, explained in student
+            language first and professional language second.
           </p>
         </motion.div>
 

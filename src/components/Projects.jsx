@@ -14,11 +14,12 @@ export default function Projects() {
           className="text-center"
         >
           <h2 className="text-4xl font-bold">
-            Projects Students <span className="text-cyan-300">Will Build</span>
+            Projects Better Than{" "}
+            <span className="text-cyan-300">Last-Minute Assignments</span>
           </h2>
           <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
-            Practical projects help students understand real-world use cases and
-            build a strong portfolio.
+            Build practical mini projects for learning, college submissions and
+            portfolio confidence.
           </p>
         </motion.div>
 
@@ -36,8 +37,8 @@ export default function Projects() {
               <Cpu className="text-cyan-300 mb-4" size={30} />
               <h3 className="text-xl font-bold text-white">{project}</h3>
               <p className="text-slate-300 mt-3">
-                A practical mini project to improve coding, logic and AI/ML
-                understanding.
+                A practical mini project to improve coding, logic and your
+                "I actually made this" confidence.
               </p>
             </motion.div>
           ))}

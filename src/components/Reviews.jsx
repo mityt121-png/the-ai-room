@@ -15,6 +15,9 @@ export default function Reviews() {
           <h2 className="text-4xl font-bold">
             Student <span className="text-cyan-300">Reviews</span>
           </h2>
+          <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
+            Real learning, fewer confused faces, better project confidence.
+          </p>
         </motion.div>
 
         <div className="grid md:grid-cols-3 gap-6 mt-10 text-left">

@@ -59,12 +59,12 @@ export default function About() {
           <div className="mt-6 space-y-4">
             <div className="flex justify-between border-b border-cyan-400/20 pb-3">
               <span className="text-slate-300">Mode</span>
-              <b>Online + Offline</b>
+              <b>Online</b>
             </div>
 
             <div className="flex justify-between border-b border-cyan-400/20 pb-3">
               <span className="text-slate-300">Location</span>
-              <b>Ratlam, MP</b>
+              <b>Online</b>
             </div>
 
             <div className="flex justify-between border-b border-cyan-400/20 pb-3">

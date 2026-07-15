@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export default function FloatingWhatsApp() {
   return (
     <motion.a
-      href="https://wa.me/9198277664243?text=Hello%20sir,%20I%20want%20to%20book%20a%20free%20demo%20for%20The%20AI%20Room"
+      href="https://wa.me/9198277664243?text=Hello%20sir,%20I%20want%20to%20join%20The%20AI%20Room%20coaching"
       target="_blank"
       rel="noopener noreferrer"
       animate={{ scale: [1, 1.12, 1] }}

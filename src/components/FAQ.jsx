@@ -13,11 +13,10 @@ export default function FAQ() {
           className="text-center"
         >
           <h2 className="text-4xl font-bold">
-            Questions Students Ask Before{" "}
-            <span className="text-cyan-300">Joining</span>
+            Frequently Asked <span className="text-cyan-300">Questions</span>
           </h2>
           <p className="text-slate-300 mt-4 max-w-2xl mx-auto">
-            Quick answers before you message "sir, doubt hai" on WhatsApp.
+            Common questions students ask before joining The AI Room.
           </p>
         </motion.div>
 
